@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/REBEL725/REBELBOT/",
-  "website": "https://github.com/REBEL725/REBELBOT/",
+  "repository": "https://github.com/REBEL75/REBELSBOT/",
+  "website": "https://github.com/REBEL75/REBELSBOT/",
   "success_url": "https://t.me/REBELBOT_SUPPORT",
   "env": {
     "ENV": {
@@ -19,7 +19,7 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
+      "value": "./REBELBOT/DOWNLOADS/",
       "required": false
     },
     "ALIVE_NAME": {
@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .rebel Command.",
-      "value": "🔱REBELBOT IS ALIVE🔱",
+      "value": "⚔️REBELBOT IS ALIVE⚔️",
       "required": false
     },
     "ALIVE_PIC": {
@@ -154,7 +154,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🤖",
+      "value": "🧡",
       "required": false
     }, 
     "TZ": {
