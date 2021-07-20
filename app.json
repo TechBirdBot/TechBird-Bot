@@ -83,7 +83,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": "*",
+      "value": ".",
       "required": false
     },
     "API_HASH": {
