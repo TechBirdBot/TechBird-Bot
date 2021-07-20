@@ -9,7 +9,7 @@
 # 𝚃𝙷𝙴 REBELBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/REBEL_IS_OP). Supported by respective nishu owner . Join for update related info channel and group :- https://t.me/REBELBOT_SUPPORT THANKS FOR VISITING OUR REPO💖
+REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-REBEL%20OP-informational)](https://t.me/REBEL_IS_OP). Supported by respective nishu owner . Join for update related info channel and group :- https://t.me/REBELBOT_SUPPORT THANKS FOR VISITING OUR REPO💖
 [![REBELBOT LOGO](https://telegra.ph/file/f16f79ce4055b0fe0511d.jpg)](https://t.me/REBELBOT_SUPPORT)
 
 
