@@ -1,7 +1,7 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/REBEL725/REBELUSER/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/REBEL75/REBELUSERBOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/REBEL726/REBELBOT)
-[![HitCount](http://hits.dwyl.com/REBEL725/REBELBOT.svg)](http://hits.dwyl.com/REBEL725/REBELBOT)
+![GitHub repo size](https://img.shields.io/github/repo-size/REBEL75/REBELSBOT)
+[![HitCount](http://hits.dwyl.com/REBEL75/REBELSBOT.svg)](http://hits.dwyl.com/REBEL75/REBELSBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/REBEL_IS_OP)
 
 
@@ -9,8 +9,8 @@
 # 𝚃𝙷𝙴 REBELBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-REBELBOT made by @REBEL_IS_OP. Supported by respective hellbot owner @REBEL725. Join for update related info channel and group :- https://t.me/REBELBOT_SUPPORT THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/33aa69184f2637246ec76.jpg)](https://t.me/REBELBOT_SUPPORT)
+REBELBOT made by [![REBEL OP](@REBEL_IS_OP)]. Supported by respective hellbot owner @REBEL725. Join for update related info channel and group :- https://t.me/REBELBOT_SUPPORT THANKS FOR VISITING OUR REPO💖
+[![REBELBOT LOGO](https://telegra.ph/file/f16f79ce4055b0fe0511d.jpg)](https://t.me/REBELBOT_SUPPORT)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
