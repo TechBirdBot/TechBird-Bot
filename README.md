@@ -48,6 +48,8 @@ REBELBOT made by @REBEL_IS_OP. Supported by respective hellbot owner @REBEL725. 
 
 <h2 align="center"> <a href="https://github.com/iisgaurav">💥 GAURAV 💥</a></h2>
 
+<h2 align="center"> <a href="https://github.com/MafiaBotOP/MafiaBot">💥 MAFIA BOT 💥</a></h2>
+
 </details>
 
 <details>
@@ -56,7 +58,7 @@ REBELBOT made by @REBEL_IS_OP. Supported by respective hellbot owner @REBEL725. 
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/REBEL725/REBELBOT
+git clone https://github.com/REBEL75/REBELSBOT
 cd REBELBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -116,7 +118,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 REBEL725
 
-Poject [REBELBOT](https://github.com/REBEL725/REBELBOT) is free software: you can redistribute it and/or modify
+Poject [REBELBOT](https://github.com/REBEL75/REBELSBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
