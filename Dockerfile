@@ -1,9 +1,9 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/REBEL725/REBELUSER.git /root/userbot
+RUN git clone https://github.com/REBEL75/REBELUSERBOT.git /root/REBELBOT
 #working directory 
-WORKDIR /root/userbot
+WORKDIR /root/REBELBOT
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
