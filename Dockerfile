@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:alpine
+FROM REBEL75/REBELSBOT:latest
 
 #clonning repo 
 RUN git clone https://github.com/REBEL75/REBELUSERBOT.git /root/userbot
