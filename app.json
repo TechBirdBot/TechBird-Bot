@@ -34,22 +34,22 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .rebel command.",
-      "value": "https://telegra.ph/file/f16f79ce4055b0fe0511d.jpg",
+      "value": "https://telegra.ph/file/04394aec58ec3f6cb0e62.mp4",
       "required": false
     },
     "HELP_PIC": {
-      "description": "telegra.ph link of the image you want to set in help menu",
-      "value": "",
-      "required": "false"
+      "description": "Put link of pic or gif to show your .help menu provider cool",
+      "value": "https://telegra.ph/file/04394aec58ec3f6cb0e62.mp4",
+      "required": false 
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "⚔️LEGEND'S SAY'S TO REBELBOT⚔️",
+      "value": "🔰𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐘 𝐑𝐄𝐁𝐄𝐋𝐁𝐎𝐓🔰",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/f16f79ce4055b0fe0511d.jpg",
+      "value": "https://telegra.ph/file/04394aec58ec3f6cb0e62.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -64,7 +64,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": ""
     },
     "REM_BG_API_KEY": {
       "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
@@ -93,7 +93,7 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": ""
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
@@ -127,7 +127,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": ""
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -141,7 +141,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@REBEL_PUBLIC_bot"
+      "value": ""
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
@@ -159,7 +159,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🧡",
+      "value": "💙",
       "required": false
     }, 
     "TZ": {
