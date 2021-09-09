@@ -37,6 +37,11 @@
       "value": "https://telegra.ph/file/f16f79ce4055b0fe0511d.jpg",
       "required": false
     },
+    "HELP_PIC": {
+      "description": "telegra.ph link of the image you want to set in help menu",
+      "value": "",
+      "required": "false"
+    },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
       "value": "⚔️LEGEND'S SAY'S TO REBELBOT⚔️",
