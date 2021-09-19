@@ -44,7 +44,6 @@ REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-REBEL%20OP-i
 
   <summary> • CREDITS👀 • </summary>
 <h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 <h2 align="center"> <a href="https://github.com/iisgaurav">💥 GAURAV 💥</a></h2>
 
